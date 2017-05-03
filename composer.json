@@ -1,0 +1,14 @@
+{
+    "name": "vaino78/csv-helper",
+    "description": "PHP CSV Helper",
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Ivan Danilov",
+            "email": "vaino78@yandex.ru"
+        }
+    ],
+    "require": {}
+}

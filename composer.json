@@ -10,5 +10,12 @@
             "email": "vaino78@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "CsvHelper\\": "src/"
+        }
+    }
 }
